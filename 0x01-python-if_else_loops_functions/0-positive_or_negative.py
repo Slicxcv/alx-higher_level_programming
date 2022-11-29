@@ -7,7 +7,7 @@ if number > 0:
     print(f"{number:d} is negative")
 
 # To check if the number is zero
-else if number == 0:
+elif number == 0:
     print(f"{number:d} is zero")
 
 # To check if the number is positive
